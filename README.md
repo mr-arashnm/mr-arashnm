@@ -19,14 +19,23 @@ My development philosophy:
 # 🧠 Technical Skillset
 
 ### 🏗 Backend & Distributed Systems
-- [cite_start]**Core:** Python (Advanced), Java (Spring Boot), Go (Learning)[cite: 43, 45].
-- [cite_start]**Architecture:** Event-Driven Architecture (EDA), RESTful API Design, Microservices patterns[cite: 7, 51].
-- [cite_start]**Storage:** PostgreSQL, Redis (Advanced Caching), MongoDB[cite: 50, 75].
+- **Core:** Python (Advanced), Java (Spring Boot), Go (Learning).
+- **Architecture:** Event-Driven Architecture (EDA), RESTful API Design, Microservices patterns.
+- **Storage:** PostgreSQL, Redis (Advanced Caching), MongoDB.
 
 ### 🐧 Systems & Tools
-- [cite_start]**OS Internals:** Linux (Bash), Process Isolation, Container Runtimes[cite: 9, 80].
-- [cite_start]**Hardware/Low-Level:** Verilog, CPU Design, Compiler Construction[cite: 24, 28, 62].
-- [cite_start]**DevOps:** Git, Docker, Kubernetes (Basic)[cite: 48, 50].
+- **OS Internals:** Linux (Bash), Process Isolation, Container Runtimes.
+- **Hardware/Low-Level:** Verilog, CPU Design, Compiler Construction.
+- **DevOps:** Git, Docker, Kubernetes (Basic).
+
+---
+
+# 🛠 Tech Stack at a Glance
+
+- **Languages:** Python, Java, C++, SQL, Go
+- **Frameworks:** FastAPI, Django, Spring Boot, Gin, LangChain
+- **Storage:** PostgreSQL, Redis, MongoDB
+- **Tools:** Linux, Docker, Git, Kubernetes, Kafka/RabbitMQ (Familiar)
 
 ---
 
@@ -34,22 +43,22 @@ My development philosophy:
 
 ### 📟 [Mano's Machine](https://github.com/mr-arashnm/Mano-s-machine)
 **16-bit CPU Design & FPGA Implementation** | *Verilog, Vivado*
-[cite_start]Implemented a fully functional computer architecture with a custom ALU and Control Unit, synthesized for FPGA[cite: 62, 65, 66].
+Implemented a fully functional computer architecture with a custom ALU and Control Unit, synthesized for FPGA.
 
 ### ⚡ [Research-Papers-Manager](https://github.com/mr-arashnm/research-papers-manager)
 **High-Performance API with Write-back Caching** | *FastAPI, Redis, MongoDB*
-[cite_start]Engineered a dual-layer storage system using **Redis** and an automated synchronization mechanism to handle high-traffic loads[cite: 72, 75].
+Engineered a dual-layer storage system using **Redis** and an automated synchronization mechanism to handle high-traffic loads.
 
 ### 🤖 [Ad-Assistant](https://github.com/mr-arashnm/divar-ad-assistant)
 **AI-Powered Metadata Extraction Engine** | *Python, LangChain, LLMs*
-[cite_start]Developed an automated pipeline to structure product information from unstructured data using state-of-the-art AI models[cite: 69, 70, 71].
+Developed an automated pipeline to structure product information from unstructured data using state-of-the-art AI models.
 
 ---
 
 # 🎯 Current Exploration
-- [cite_start]**Distributed Messaging:** Deep-diving into Kafka and RabbitMQ for robust system communication[cite: 50].
-- [cite_start]**Compiler Engineering:** Refining my custom compiler for the Cool language[cite: 24, 67].
-- [cite_start]**Linux Security:** Researching Intrusion Detection Systems (IDS) and system-level security[cite: 9].
+- **Distributed Messaging:** Deep-diving into Kafka and RabbitMQ for robust system communication.
+- **Compiler Engineering:** Refining my custom compiler for the Cool language.
+- **Linux Security:** Researching Intrusion Detection Systems (IDS) and system-level security.
 
 ---
 
